@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xmlns:android="http://schemas.android.com/apk/res/android">
+    <init>
+        <log text="TetaVi_Plugin Init"/>
+        
+
+    </init>
+
+    <baseBuildGradleAdditions>
+        <insert>
+            allprojects {
+            repositories {
+            repositories {
+            flatDir {
+        </insert>
+        <insertValue value="dirs '$S(AbsPluginDir)/Android'"/>
+        <insertNewline/>
+        <insert>
+            }
+            }
+            }
+            }
+        </insert>
+    </baseBuildGradleAdditions>
+    
+    <buildGradleAdditions>
+        <insert>
+            dependencies.implementation(name: 'tv_decoder_engine_android-release', ext: 'aar')
+        </insert>
+    </buildGradleAdditions>
+   
+
+</root>

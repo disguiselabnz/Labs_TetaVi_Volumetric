@@ -1,0 +1,8 @@
+{
+	"BuildId": "19505902",
+	"Modules": 
+	{
+		"TetaVi_Editor": "UnrealEditor-TetaVi_Editor.dll",
+		"TetaVi_Plugin": "UnrealEditor-TetaVi_Plugin.dll"
+	}
+}

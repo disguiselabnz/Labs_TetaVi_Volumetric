@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal\\labs_tetasvolumetric\\intermediate\\build\\win64\\unrealeditor\\inc\\labs_tetasvolumetric\\labs_tetasvolumetric.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\labs_tetasvolumetric\\intermediate\\build\\win64\\labs_tetasvolumetriceditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal\\labs_tetasvolumetric\\intermediate\\build\\win64\\unrealeditor\\development\\labs_tetasvolumetric\\definitions.labs_tetasvolumetric.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

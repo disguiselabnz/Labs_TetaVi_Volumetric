@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Labs_TetasVolumetric.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Labs_TetasVolumetric.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Labs_TetasVolumetricEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Labs_TetasVolumetric">
+      <UniqueIdentifier>{610941AB-088E-37FF-9FD7-55A203A17ED2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Labs_TetasVolumetric\Labs_TetasVolumetric.Build.cs">
+      <Filter>Source\Labs_TetasVolumetric</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Labs_TetasVolumetric\Labs_TetasVolumetric.cpp">
+      <Filter>Source\Labs_TetasVolumetric</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Labs_TetasVolumetric\Labs_TetasVolumetric.h">
+      <Filter>Source\Labs_TetasVolumetric</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Labs_TetasVolumetric\Labs_TetasVolumetricCharacter.cpp">
+      <Filter>Source\Labs_TetasVolumetric</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Labs_TetasVolumetric\Labs_TetasVolumetricCharacter.h">
+      <Filter>Source\Labs_TetasVolumetric</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Labs_TetasVolumetric\Labs_TetasVolumetricGameMode.cpp">
+      <Filter>Source\Labs_TetasVolumetric</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Labs_TetasVolumetric\Labs_TetasVolumetricGameMode.h">
+      <Filter>Source\Labs_TetasVolumetric</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

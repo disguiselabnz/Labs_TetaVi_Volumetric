@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TetaViProceduralMeshComponent.cpp.obj": [
+			"TetaViKismetProceduralMeshLibrary.cpp.obj",
+			"TetaViProceduralMeshComponent.cpp.obj",
+			"TetaViProceduralMeshComponentPlugin.cpp.obj",
+			"TetaViProceduralMeshConversion.cpp.obj"
+		],
+		"Module.TetaViProceduralMeshComponent.gen.cpp.obj": [
+			"TetaViKismetProceduralMeshLibrary.gen.cpp.obj",
+			"TetaViProceduralMeshComponent.gen.cpp.obj",
+			"TetaViProceduralMeshComponent.init.gen.cpp.obj"
+		]
+	}
+}

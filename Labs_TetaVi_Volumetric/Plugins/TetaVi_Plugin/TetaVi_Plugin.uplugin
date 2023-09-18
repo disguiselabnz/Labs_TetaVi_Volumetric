@@ -1,0 +1,44 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TetaVi_Plugin",
+	"Description": "tet file player",
+	"Category": "Other",
+	"CreatedBy": "TetaVi",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "TetaVi_Plugin",
+			"Type": "Runtime",
+			"LoadingPhase": "PostEngineInit",
+			"WhitelistPlatforms": ["Linux", "Android", "Mac", "Win64" ]
+
+		},
+		{
+			"Name": "TetaVi_Editor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit",
+			"WhitelistPlatforms": [ "Linux","Android", "Mac", "Win64" ]
+		}
+		
+	],
+	"Plugins": [
+		{
+			"Name": "LevelSequenceEditor",
+			"Enabled": true
+		},
+		{
+			"Name": "TetaViProceduralMeshComponent",
+			"Enabled": true
+		}
+	]
+	
+}

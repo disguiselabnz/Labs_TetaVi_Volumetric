@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TetaVi_Editor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\tetavi\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\tetavi\Documents\Unreal Projects\MyProject\Plugins\TetaVi_Plugin\Intermediate\Build\Win64\UnrealEditor\Development\TetaVi_Editor\TetaVi_Editor.cpp.obj"
+"C:\Users\tetavi\Documents\Unreal Projects\MyProject\Plugins\TetaVi_Plugin\Intermediate\Build\Win64\UnrealEditor\Development\TetaVi_Editor\Default.rc2.res"
+/OUT:"C:\Users\tetavi\Documents\Unreal Projects\MyProject\Plugins\TetaVi_Plugin\Intermediate\Build\Win64\UnrealEditor\Development\TetaVi_Editor\UnrealEditor-TetaVi_Editor.lib"

@@ -1,0 +1,17 @@
+{
+	"fps": 30,
+	"FrameCount": 1213,
+	"Width": 2048,
+	"Height": 4096,
+	"Chunks" : [
+		"0","guy_000.tet",
+		"150","guy_001.tet",
+		"300","guy_002.tet",
+		"450","guy_003.tet",
+		"600","guy_004.tet",
+		"750","guy_005.tet",
+		"900","guy_006.tet",
+		"1050","guy_007.tet",
+		"1200","guy_008.tet",
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TetaVi_Plugin.cpp.obj": [
+			"FrameUpdate.cpp.obj",
+			"Tetavi_Chunk.cpp.obj",
+			"TetaVi_Player.cpp.obj",
+			"TetaVi_Plugin.cpp.obj",
+			"TetaVi_Stream.cpp.obj",
+			"Tetavi_Streamer.cpp.obj"
+		],
+		"Module.TetaVi_Plugin.gen.cpp.obj": [
+			"Tetavi_Chunk.gen.cpp.obj",
+			"TetaVi_Player.gen.cpp.obj",
+			"TetaVi_Plugin.init.gen.cpp.obj"
+		]
+	}
+}

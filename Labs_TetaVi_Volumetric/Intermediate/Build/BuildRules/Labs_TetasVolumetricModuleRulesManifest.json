@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal\\Labs_TetasVolumetric\\Source\\Labs_TetasVolumetric\\Labs_TetasVolumetric.Build.cs",
+		"D:\\Unreal\\Labs_TetasVolumetric\\Source\\Labs_TetasVolumetric.Target.cs",
+		"D:\\Unreal\\Labs_TetasVolumetric\\Source\\Labs_TetasVolumetricEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

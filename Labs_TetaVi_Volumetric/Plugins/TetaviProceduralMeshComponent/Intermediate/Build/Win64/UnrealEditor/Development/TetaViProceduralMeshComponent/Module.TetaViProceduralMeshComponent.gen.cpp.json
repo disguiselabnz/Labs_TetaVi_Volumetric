@@ -1,0 +1,20 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\tetavi\\documents\\unreal projects\\myproject\\plugins\\tetaviproceduralmeshcomponent\\intermediate\\build\\win64\\unrealeditor\\development\\tetaviproceduralmeshcomponent\\module.tetaviproceduralmeshcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tetavi\\documents\\unreal projects\\myproject\\intermediate\\build\\win64\\myprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\tetavi\\documents\\unreal projects\\myproject\\plugins\\tetaviproceduralmeshcomponent\\intermediate\\build\\win64\\unrealeditor\\development\\tetaviproceduralmeshcomponent\\definitions.tetaviproceduralmeshcomponent.h",
+            "c:\\users\\tetavi\\documents\\unreal projects\\myproject\\plugins\\tetaviproceduralmeshcomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\tetaviproceduralmeshcomponent\\tetavikismetproceduralmeshlibrary.gen.cpp",
+            "c:\\users\\tetavi\\documents\\unreal projects\\myproject\\plugins\\tetaviproceduralmeshcomponent\\source\\tetaviproceduralmeshcomponent\\public\\tetavikismetproceduralmeshlibrary.h",
+            "c:\\users\\tetavi\\documents\\unreal projects\\myproject\\plugins\\tetaviproceduralmeshcomponent\\source\\tetaviproceduralmeshcomponent\\public\\tetaviproceduralmeshcomponent.h",
+            "c:\\users\\tetavi\\documents\\unreal projects\\myproject\\plugins\\tetaviproceduralmeshcomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\tetaviproceduralmeshcomponent\\tetaviproceduralmeshcomponent.generated.h",
+            "c:\\users\\tetavi\\documents\\unreal projects\\myproject\\plugins\\tetaviproceduralmeshcomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\tetaviproceduralmeshcomponent\\tetavikismetproceduralmeshlibrary.generated.h",
+            "c:\\users\\tetavi\\documents\\unreal projects\\myproject\\plugins\\tetaviproceduralmeshcomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\tetaviproceduralmeshcomponent\\tetaviproceduralmeshcomponent.gen.cpp",
+            "c:\\users\\tetavi\\documents\\unreal projects\\myproject\\plugins\\tetaviproceduralmeshcomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\tetaviproceduralmeshcomponent\\tetaviproceduralmeshcomponent.init.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

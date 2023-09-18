@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Labs_TetasVolumetric",
+			"Path": "D:\\Unreal\\Labs_TetasVolumetric\\Source\\Labs_TetasVolumetric.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Labs_TetasVolumetricEditor",
+			"Path": "D:\\Unreal\\Labs_TetasVolumetric\\Source\\Labs_TetasVolumetricEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
